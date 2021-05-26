@@ -1,8 +1,8 @@
 namespace algorithms_bubble_sort
 {
-    public class BubbleSort
+    public  class BubbleSort
     {
-        public void Sort(int[] array)
+        public static void Sort(int[] array)
         {
             for (int i = 0; i < array.Length - 1; i++)
             {
@@ -18,7 +18,7 @@ namespace algorithms_bubble_sort
             }
         }
         
-        public void RecursiveSort(int[] array, int length)
+        public static void RecursiveSort(int[] array, int length)
         {
             if (length < 1) return;
 
