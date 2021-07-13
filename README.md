@@ -2,7 +2,7 @@ Algoritmos - Bubble Sort
 =====================
 Este projeto tem como intuito implementar o algoritmo de ordenação Bubble Sort. 
 
-O projeto foi criado para compor um artigo escrito por mim na plataforma Medium [Bubble Sort](https://www.microsoft.com/net/download) 
+O projeto foi criado para compor um artigo escrito por mim na plataforma Medium [Bubble Sort](https://guilherme-rmendes95.medium.com/algoritmos-bubble-sort-bfca8f23bba1) 
 
 ## Dê uma estrela :star:
 Se você gostou deste projeto ou se te ajudou, por favor, dê uma estrela ;)
